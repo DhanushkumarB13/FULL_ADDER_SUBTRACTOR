@@ -62,27 +62,39 @@ Borrow out = A'Bin + A'B + BBin
 # Program:
 
 full adder
+
+
 ![Screenshot 2024-12-09 134334](https://github.com/user-attachments/assets/eecd8ec7-660d-45e1-8c2d-142a8591697f)
 
 
 full subtractor
+
+
 ![Screenshot 2024-12-09 134344](https://github.com/user-attachments/assets/eac9e1a9-4b10-42a2-b23d-df5803265cea)
 
 
 # RTL Schematic:
 
 full adder
+
+
 ![Screenshot 2024-12-09 134451](https://github.com/user-attachments/assets/dbb52dea-88b7-440c-aa95-654dfbe41182)
 
 full subtractor
+
+
 ![Screenshot 2024-12-09 134501](https://github.com/user-attachments/assets/a7681bdf-bc65-4dfb-87f8-1cc70bd2f469)
 
 # Output Timing Waveform:
 
 full adder
+
+
 ![Screenshot 2024-12-09 134556](https://github.com/user-attachments/assets/4a95332f-6a60-4020-8fce-9fabb0d33333)
 
 full subtractor
+
+
 ![Screenshot 2024-12-09 134608](https://github.com/user-attachments/assets/7f4d5f65-dee4-4f8c-9aa2-5a12691d1208)
 
 
