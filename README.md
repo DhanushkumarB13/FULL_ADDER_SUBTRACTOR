@@ -39,17 +39,52 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 # Truthtable
+![Screenshot 2024-12-09 133755](https://github.com/user-attachments/assets/d9985ad6-8490-4bad-8e0e-5a87e09deb74)
+
+
+![Screenshot 2024-12-09 133810](https://github.com/user-attachments/assets/4ea431af-8c66-4621-bab7-2b1e24a2985e)
 
 # Procedure
 
-Write the detailed procedure here
+ Full Adder:
+ 1.Open Quartus II and create a new project. 
+ 2. Use schematic design entry to draw the full adder circuit. 
+ 3. The circuit consists of XOR, AND, and OR gates. 
+ 4. Compile the design, verify its functionality through simulation. 
+ 5. Implement the design on the target device and program it.
+ 
+ Full Subtractor:
+ 1. Follow the same steps as for the full adder.
+ 2. Draw the full subtractor circuit using schematic design.
+ 3. The circuit includes XOR, AND, OR gates to perform subtraction.
+ 4. Compile, simulate, implement, and program the design similarly to the full adder.
 
 # Program:
+
+full adder
+![Screenshot 2024-12-09 134334](https://github.com/user-attachments/assets/eecd8ec7-660d-45e1-8c2d-142a8591697f)
+
+
+full subtractor
+![Screenshot 2024-12-09 134344](https://github.com/user-attachments/assets/eac9e1a9-4b10-42a2-b23d-df5803265cea)
 
 
 # RTL Schematic:
 
+full adder
+![Screenshot 2024-12-09 134451](https://github.com/user-attachments/assets/dbb52dea-88b7-440c-aa95-654dfbe41182)
+
+full subtractor
+![Screenshot 2024-12-09 134501](https://github.com/user-attachments/assets/a7681bdf-bc65-4dfb-87f8-1cc70bd2f469)
+
 # Output Timing Waveform:
+
+full adder
+![Screenshot 2024-12-09 134556](https://github.com/user-attachments/assets/4a95332f-6a60-4020-8fce-9fabb0d33333)
+
+full subtractor
+![Screenshot 2024-12-09 134608](https://github.com/user-attachments/assets/7f4d5f65-dee4-4f8c-9aa2-5a12691d1208)
+
 
 # Result:
 
